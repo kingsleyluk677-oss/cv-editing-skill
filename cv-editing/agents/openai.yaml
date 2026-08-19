@@ -1,4 +1,0 @@
-interface:
-  display_name: "CV Editing"
-  short_description: "Tailor achievement-focused CVs to job descriptions."
-  default_prompt: "Use $cv-editing to revise my CV for a specific job description."
